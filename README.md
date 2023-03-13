@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rebsvegcode
-- 👀 I’m interested in C programming
 - 📚 I'm currently studying Computer Science and Engineering at PoliMi
 - 🌱 I’m vegan!
 - 📫 Reach me on instagram! @rebeccareas
